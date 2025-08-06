@@ -1,4 +1,4 @@
-# ⚙Systemcheck-Skript
+# ⚙ Systemcheck-Skript
 
 Ein kleines PowerShell-Tool, das automatisch überprüft, ob wichtige Dienste und Systemeinstellungen auf dem Computer korrekt laufen.
 
