@@ -9,5 +9,5 @@ Es eignet sich für Administratoren und IT-Einsteiger zur schnellen Bestandsaufn
 ## Nutzung
 
 1. Öffne PowerShell mit Administratorrechten.  
-2. Lade das Skript `systemcheck.ps1` herunter oder kopiere das Repository.  
+2. Lade das Skript `systemcheck.ps1` herunter oder kopiere die Datei.  
 3. Führe das Skript aus.
